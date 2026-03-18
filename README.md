@@ -11,5 +11,22 @@ How to run:
 2. To start simulation: python simulate.py
 
 
-### 📂 Project Report
-View the full technical analysis here: [Download ER-Triage-System.pdf](./ER-Triage-System.pdf)
+# Emergency Room Triage System
+**Course:** Design and Analysis of Algorithms (CoSc3094)
+**Institution:** Aksum University
+
+## 👥 Group Members
+1. Eyerusalem Teklay (AKU16023)
+2. Weldearegay Abebe (AKU16034)
+3. Shewit Legesse (AKU1602069)
+
+---
+
+## 📂 Project Deliverables
+The PDF below contains our full analysis and complexity proofs.
+👉 **[Click here to download the Full Project Report (PDF)](./ER-Triage-System.pdf)**
+
+---
+
+## 📊 Simulation Results
+![Output](simulate.png)
