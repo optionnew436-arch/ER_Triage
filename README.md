@@ -9,3 +9,7 @@ Files:
 How to run:
 1. (Optional) To generate new data: python generate_data.py
 2. To start simulation: python simulate.py
+
+
+### 📂 Project Report
+View the full technical analysis here: [Download ER-Triage-System.pdf](./ER-Triage-System.pdf)
